@@ -1,4 +1,3 @@
-#Finicial Calculator
 import math
 
 def finance_calculators():
